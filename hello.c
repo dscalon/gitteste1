@@ -9,7 +9,7 @@ int main ()
 
 }
 
-
+/* comentário em bloco adicionado para testar o git reverse*/
 int soma (int a, int b)
 {
   return a + b;
