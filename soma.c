@@ -2,6 +2,8 @@
 
 int mul (int a, int b)
 {
-return a * b;
+  printf("Oi: \n", );
+  return a * b;
+
 
 }
